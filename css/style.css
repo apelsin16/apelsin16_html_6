@@ -50,7 +50,7 @@ input[type="password"] {
   align-items: flex-start;
   flex-wrap: nowrap;
   margin-top: 16px;
-  height: 28px;
+  height: 26px;
   width: 908px;
   }
 
@@ -70,7 +70,7 @@ box-shadow: 3px 3px 5px 0px rgba(150,150,150,1);
 font-size: 11px;
 padding: 2px;
 width: 495px;
-margin-left: 5px;
+margin-left: 3px;
 }
 
 .login i {
