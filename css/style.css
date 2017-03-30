@@ -12,6 +12,10 @@ body {
   font-family: arial;
   }
 
+  .phone a {
+  	text-decoration: none;
+  }
+
   .phone i {
     background: rgba(31,103,134,1);
 background: -moz-linear-gradient(top, rgba(31,103,134,1) 0%, rgba(12,51,87,1) 100%);
@@ -23,14 +27,14 @@ background: linear-gradient(to bottom, rgba(31,103,134,1) 0%, rgba(12,51,87,1) 1
 border-radius: 10px 10px 10px 10px;
 height: 21px;
 width: 22px;
-font-size: 18px;
+font-size: 14px;
 color: white;
-
 }
 
 input[type="text"],
 input[type="password"] {
 	width: 113px;
+	padding-top: 5px;
 }
 
 .top {
@@ -63,6 +67,8 @@ width: 495px;
 
 .login i {
   color: white;
+  font-size: 19px;
+  margin-top: 3px;
 }
 
 .login a {
@@ -190,11 +196,7 @@ text-decoration: none;
    .top_section {
      display: flex;
      flex-direction: row;
-   }
-
-	
-
-	
+   }	
 
 .img {
 	display: block;
@@ -217,6 +219,10 @@ text-decoration: none;
  	vertical-align: middle;
  }
 
+	section ul {
+		align-items: flex-end;
+	}	
+
 aside {  
   width: 183px;
   margin-left: 10px;
@@ -225,7 +231,7 @@ aside {
  h1 {
   display: flex;
   border: 1px solid #79878d;
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 12px 12px 12px 12px;
   width: 135px;
   height: 26px;
 	font-size: 13px;
@@ -236,9 +242,6 @@ box-shadow: 3px 3px 5px grey;
 width: 181px;
 height: 25px;
 }
-
- 
-	
 
 nav a {
 	text-decoration: none;
