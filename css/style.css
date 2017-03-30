@@ -15,7 +15,8 @@ body {
   .phone a {
   	text-decoration: none;
   	padding-left: 6px;
-  	letter-spacing: 0.5px;
+  	letter-spacing: 0.4px;
+  	margin-top: 2px;
   }
 
   .phone i {
