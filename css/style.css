@@ -15,7 +15,7 @@ body {
   .phone a {
   	text-decoration: none;
   	padding-left: 6px;
-  	letter-spacing: 1px;
+  	letter-spacing: 0.8px;
   }
 
   .phone i {
@@ -33,7 +33,7 @@ font-size: 14px;
 color: white;
 vertical-align: center;
 text-align: center;
-margin-left: 2px;
+margin-left: 4px;
 }
 
 input[type="text"],
