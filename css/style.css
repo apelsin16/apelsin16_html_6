@@ -95,7 +95,7 @@ margin-top: -8px;
 }
 
 .smallbar {
-  width: 77px;
+  width: 76px;
   height: 19px;
   border: 1px solid #c1c8cb;
   border-radius: 12px 12px 12px 12px;
@@ -108,7 +108,7 @@ margin-right: 8px;
 
 .smallbar i {
 	padding: 2px;
-	margin-left: 6px;
+	margin-left: 5px;
 	font-size: 11px;
 }
 
