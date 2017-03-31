@@ -10,7 +10,8 @@ body {
   font-size: 18px;
   padding: 2px;
   font-family: arial;
-  margin-top: 1px;
+  margin-top: -3px;
+  margin-left: -12px;
   }
 
   .phone a {
