@@ -11,14 +11,14 @@ body {
   padding: 2px;
   font-family: arial;
   margin-top: -3px;
-  margin-left: -12px;
+  margin-left: 1px;
   }
 
   .phone a {
   	text-decoration: none;
   	padding-left: 8px;
   	letter-spacing: 0.4px;
-  	margin-left: 5px;
+  	margin-left: 1px;
   }
 
   .phone i {
@@ -36,7 +36,7 @@ font-size: 18px;
 color: white;
 vertical-align: center;
 text-align: center;
-margin-left: 14px;
+margin-left: 1px;
 }
 
 input[type="text"],
