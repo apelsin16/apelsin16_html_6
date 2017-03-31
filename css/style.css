@@ -42,8 +42,9 @@ margin-left: 1px;
 input[type="text"],
 input[type="password"] {
 	width: 113px;
-	padding-top: 5px;
-	height: 15px;
+	vertical-align: center;
+	margin-top: -5px;
+
 }
 
 .top {
@@ -80,7 +81,7 @@ margin-top: -8px;
   color: white;
   font-size: 19px;
   margin-top: 3px;
-  margin-left: 5px;
+  margin-left: 6px;
 }
 
 .login a {
