@@ -10,15 +10,15 @@ body {
   font-size: 18px;
   padding: 2px;
   font-family: arial;
-  margin-top: -3px;
-  margin-left: 1px;
+  margin-top: -4px;
+  margin-left: 0px;
   }
 
   .phone a {
   	text-decoration: none;
   	padding-left: 8px;
   	letter-spacing: 0.4px;
-  	margin-left: 1px;
+  	margin-left: -9px;
   }
 
   .phone i {
@@ -72,8 +72,8 @@ box-shadow: 3px 3px 5px 0px rgba(150,150,150,1);
 font-size: 11px;
 padding: 2px;
 width: 495px;
-margin-left: -14px;
-margin-top: -5px;
+margin-left: 1px;
+margin-top: 1px;
 }
 
 .login i {
