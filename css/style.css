@@ -73,14 +73,14 @@ font-size: 11px;
 padding: 2px;
 width: 495px;
 margin-left: 1px;
-margin-top: 1px;
+margin-top: -8px;
 }
 
 .login i {
   color: white;
-  font-size: 14px;
+  font-size: 19px;
   margin-top: 3px;
-  margin-left: 2px;
+  margin-left: 5px;
 }
 
 .login a {
