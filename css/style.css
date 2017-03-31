@@ -44,7 +44,11 @@ input[type="password"] {
 	width: 113px;
 	vertical-align: top;
 	margin-top: 2px;
+	line-height: 14px;
 	}
+fieldset {
+	padding: 4px;
+}
 
 .top {
   display: flex;
@@ -72,15 +76,15 @@ box-shadow: 3px 3px 5px 0px rgba(150,150,150,1);
 font-size: 11px;
 padding: 2px;
 width: 495px;
-margin-left: 1px;
-margin-top: -8px;
+margin-left: -3px;
+margin-top: -4px;
 }
 
 .login i {
   color: white;
   font-size: 19px;
-  margin-top: 3px;
-  margin-left: 6px;
+  margin-top: -1px;
+  margin-left: 2px;
 }
 
 .login a {
