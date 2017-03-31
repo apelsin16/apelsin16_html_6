@@ -109,14 +109,20 @@ margin-right: 8px;
 .smallbar i {
 	padding: 2px;
 	margin-left: 5px;
-	font-size: 11px;
+	font-size: 9px;
+}
+
+.home,
+.sitemap {
+/*font-size: 9px;*/
 }
 
 .banner {
   background-image: url(../img/bg.png);
   height: 237px;
   width: 908px;
-  margin-top: 10px;
+  margin-top: 3px;
+  margin-left: -5px;
 }
 
 .menu {
@@ -136,9 +142,10 @@ width: 912px;
 -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
 box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
-border-radius: 8px 8px 8px 8px;
+border-radius: 6px 6px 6px 6px;
 margin-top: 5px;
 text-align: center;
+margin-left: -6px;
 
 }
 
