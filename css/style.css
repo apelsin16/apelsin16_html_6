@@ -42,10 +42,9 @@ margin-left: 1px;
 input[type="text"],
 input[type="password"] {
 	width: 113px;
-	vertical-align: center;
-	margin-top: -5px;
-
-}
+	vertical-align: top;
+	margin-top: 2px;
+	}
 
 .top {
   display: flex;
