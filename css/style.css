@@ -85,7 +85,8 @@ margin-top: -8px;
 
 .login a {
   color: #bfbfbf;
-  font-size: 14px;
+  font-size: 13px;
+  vertical-align: top;
 }
 
 .smallbar {
