@@ -10,11 +10,12 @@ body {
   font-size: 18px;
   padding: 2px;
   font-family: arial;
+  margin-top: 1px;
   }
 
   .phone a {
   	text-decoration: none;
-  	padding-left: 6px;
+  	padding-left: 8px;
   	letter-spacing: 0.4px;
   	/*margin-top: 2px;*/
   }
@@ -49,7 +50,7 @@ input[type="password"] {
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: nowrap;
-  margin-top: 16px;
+  margin-top: 18px;
   height: 26px;
   width: 908px;
   }
@@ -75,7 +76,7 @@ margin-left: 3px;
 
 .login i {
   color: white;
-  font-size: 19px;
+  font-size: 14px;
   margin-top: 3px;
 }
 
@@ -86,12 +87,18 @@ margin-left: 3px;
 
 .smallbar {
   width: 77px;
-  height: 21px;
+  height: 20px;
   border: 1px solid #c1c8cb;
   border-radius: 12px 12px 12px 12px;
   -webkit-box-shadow: 3px 3px 5px 0px rgba(193,200,203,1);
 -moz-box-shadow: 3px 3px 5px 0px rgba(193,200,203,1);
 box-shadow: 3px 3px 5px 0px rgba(193,200,203,1);
+margin-top: -4px;
+margin-right: 8px;
+}
+
+.smallbar i {
+	padding: 5px;
 }
 
 .banner {
