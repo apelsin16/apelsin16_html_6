@@ -2,6 +2,7 @@
   color: #6d767a;
   font-family: lucida, arial;
 }
+
 body {
   width: 1000px;
   margin: 0 auto;
@@ -194,6 +195,7 @@ color: white;
 p {
  	text-align: center;
  	vertical-align: middle;
+ 	letter-spacing: 1.1px;
  	}
 
 span, .menu i {
@@ -208,7 +210,7 @@ font-size: 19px;
 fieldset .simple {
 color: white;
 text-decoration: none;
-letter-spacing: 0.9
+letter-spacing: 0.9px;
 }
 
 .content {
