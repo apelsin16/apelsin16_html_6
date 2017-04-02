@@ -149,6 +149,7 @@ margin-top: 5px;
 text-align: center;
 margin-left: -6px;
 }
+
 .menu ul {
 	
 
@@ -190,12 +191,13 @@ color: white;
 	margin-right: 20px;
 	margin-left: 58px;
 	margin-top: 5px;
+	letter-spacing: 0.5px;
 }
 
 p {
  	text-align: center;
  	vertical-align: middle;
- 	letter-spacing: 1.1px;
+ 	/*letter-spacing: 1.1px;*/
  	}
 
 span, .menu i {
