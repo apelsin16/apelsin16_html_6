@@ -82,7 +82,7 @@ fieldset {
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: nowrap;
-  margin-top: 18px;
+  margin-top: 8px;
   height: 26px;
   width: 908px;
   }
@@ -103,7 +103,7 @@ box-shadow: 3px 3px 5px 0px rgba(150,150,150,1);
 font-size: 11px;
 padding: 2px;
 width: 495px;
-margin-left: 2px;
+margin-left: -10px;
 margin-top: -8px;
 }
 
@@ -111,7 +111,7 @@ margin-top: -8px;
   color: white;
   font-size: 19px;
   margin-top: -1px;
-  margin-left: 1px;
+  margin-left: 0px;
 }
 
 .login a {
