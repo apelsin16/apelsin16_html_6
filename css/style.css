@@ -16,7 +16,7 @@ header {
   font-size: 18px;
   padding: 2px;
   font-family: arial;
-  margin-top: -4px;
+  margin-top: -6px;
   margin-left: 0px;
   }
 
@@ -24,7 +24,7 @@ header {
   	text-decoration: none;
   	padding-left: 8px;
   	letter-spacing: 0.4px;
-  	margin-left: -10px;
+  	/*margin-left: 10px;*/
   }
 
   .phone i {
@@ -361,7 +361,7 @@ aside a {
 
 aside a:hover {
 		text-decoration: underline;
-		font-weight: 800;
+		font-weight: 600;
 	}
 
 aside li {
