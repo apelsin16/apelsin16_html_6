@@ -24,8 +24,8 @@ header {
   	text-decoration: none;
   	padding-left: 8px;
   	letter-spacing: 0.4px;
-  	margin-left: 10px;
-  	margin-left: 9px;
+  	margin-left: -10px;
+  	margin-right: 9px;
   }
 
   .phone i {
