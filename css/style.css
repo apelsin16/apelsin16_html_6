@@ -191,7 +191,7 @@ margin-left: -6px;
   display: block;
   float: left;
  padding: 7px;
- margin-top: 2px;
+ margin-top: 3px;
 	
 }
 
@@ -201,11 +201,13 @@ margin-left: -6px;
   width: 10.5%;
 	height: 25px;
 	border-radius: 18px 18px 1px 18px;
-	vertical-align: center;
+	/*vertical-align: center;*/
 	padding: 5px;
 	font-size: 14px;
-	
-}
+	margin-left: 1px;
+	padding-left: 11px;
+	padding-right: 5px;
+	}
 
 
 .menu a:hover {
@@ -223,12 +225,16 @@ color: white;
 }
 
 .menu p {
-	font-size: 13px;
+	font-size: 12px;
 	text-align: right;
-	margin-right: 20px;
-	margin-left: 58px;
+	margin-right: 16px;
+	margin-left: 56px;
 	margin-top: 5px;
-	letter-spacing: 0.2px;
+	letter-spacing: 1px;
+}
+
+.menu i {
+	margin-right: 10px;
 }
 
 p {
