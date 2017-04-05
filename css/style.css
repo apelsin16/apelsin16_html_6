@@ -225,16 +225,16 @@ color: white;
 }
 
 .menu p {
-	font-size: 12px;
+	font-size: 11px;
 	text-align: right;
-	margin-right: 16px;
-	margin-left: 56px;
+	margin-right: 43px;
+	margin-left: 42px;
 	margin-top: 5px;
 	letter-spacing: 1px;
 }
 
 .menu i {
-	margin-right: 10px;
+	margin-left: -13px;
 }
 
 p {
