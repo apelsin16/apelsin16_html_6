@@ -204,8 +204,8 @@ margin-left: -6px;
 	/*vertical-align: center;*/
 	padding: 5px;
 	font-size: 14px;
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-left: -33px;
+	margin-right: 38px;
 	}
 
 
@@ -233,7 +233,7 @@ color: white;
 }
 
 .menu i {
-	margin-left: 0px;
+	margin-left: 22px;
 }
 
 p {
