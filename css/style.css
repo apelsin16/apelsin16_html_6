@@ -10,7 +10,7 @@ body {
 }
 
 header {
-	margin-top: 20px;
+	padding-top: 20px;
 }
 .phone {
   font-size: 18px;
@@ -480,7 +480,18 @@ footer {
 
 footer ul {
 	margin-left: 309px;
+	}
 
+footer ul:after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+footer li {
+	float: left;
 }
 
 footer a {
